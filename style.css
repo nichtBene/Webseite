@@ -78,7 +78,7 @@ background-color: lightgrey;
 aside {
 	flex-basis: 30%;
 	align-self: flex-end;
-	background-color: lightgrey;
+	background-color: grey;
 }
 
 footer {
